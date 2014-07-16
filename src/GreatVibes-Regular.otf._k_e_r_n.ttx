@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="F" r="i" v="75"/>
+      <pair l="P" r="a" v="-54"/>
+      <pair l="P" r="e" v="-54"/>
+      <pair l="P" r="i" v="42"/>
+      <pair l="P" r="l" v="21"/>
+      <pair l="P" r="o" v="-61"/>
+      <pair l="P" r="r" v="28"/>
+      <pair l="P" r="s" v="-34"/>
+      <pair l="P" r="u" v="-61"/>
+      <pair l="P" r="y" v="-54"/>
+      <pair l="T" r="U" v="205"/>
+      <pair l="T" r="i" v="75"/>
+      <pair l="eight.onum" r="nine.onum" v="-44"/>
+      <pair l="five.onum" r="seven.onum" v="56"/>
+      <pair l="four.onum" r="six.onum" v="63"/>
+      <pair l="one.onum" r="five.onum" v="-93"/>
+      <pair l="one.onum" r="nine.onum" v="-75"/>
+      <pair l="one.onum" r="seven.onum" v="-18"/>
+      <pair l="one.onum" r="three.onum" v="-62"/>
+      <pair l="one.onum" r="two.onum" v="-56"/>
+      <pair l="seven.onum" r="eight.onum" v="-50"/>
+      <pair l="seven.onum" r="nine.onum" v="-63"/>
+      <pair l="three.onum" r="four.onum" v="-25"/>
+      <pair l="u" r="s" v="-1"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
