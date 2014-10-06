@@ -1,0 +1,33 @@
+{
+  "name": "Great Vibes",
+  "designer": "TypeSETit",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Handwriting",
+  "size": 49931,
+  "fonts": [
+    {
+      "name": "Great Vibes",
+      "style": "normal",
+      "weight": 400,
+      "filename": "GreatVibes-Regular-TTF.ttf",
+      "postScriptName": "GreatVibes-Regular",
+      "fullName": "Great Vibes",
+      "copyright": "Copyright (c) 2012 TypeSETit, LLC (typesetit@att.net),\nwith Reserved Font Name \"Great Vibes\""
+    },
+    {
+      "name": "Great Vibes",
+      "style": "normal",
+      "weight": 400,
+      "filename": "GreatVibes-Regular.ttf",
+      "postScriptName": "GreatVibes-Regular",
+      "fullName": "Great Vibes",
+      "copyright": "Copyright (c) 2012 TypeSETit, LLC (typesetit@att.net),\rwith Reserved Font Name \"Great Vibes\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-03-29"
+}
